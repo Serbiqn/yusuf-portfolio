@@ -1,0 +1,57 @@
+{
+    "basics": {
+        "name": "Yusuf Ahmed",
+        "label": "Thumbnail Designer and Video Editor",
+        "email": "",
+        "phone": "",
+        "picture": "yusuf.jpg",
+        "x_title": "Hey, I'm",
+        "job": "Thumbnail Designer and Video Editor",
+        "description": "Hey, I'm Yusuf, a Thumbnail Designer and Video Editor.",
+        "summary": "Thumbnail Designer and Video Editor",
+        "keywords": "personal,website,portfolio,yusuf,ahmed,thumbnails,designer,video,editor,self-improvement",
+        "url": "https://dusanrajic.com",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "",
+            "country": "",
+            "countryCode": "",
+            "region": ""
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "ReachYuzuf",
+                "url": "https://twitter.com/ReachYuzuf",
+                "x_icon": "fab fa-twitter"
+            },
+            {
+                "network": "Instagram",
+                "username": "@y0ussefa4",
+                "url": "https://www.instagram.com/y0ussefa4",
+                "x_icon": "fab fa-instagram"
+            },
+            {
+                "network": "Discord",
+                "username": "reachyusuf",
+                "x_icon": "fab fa-discord"
+            }
+        ]
+    },
+    
+    "skills": [
+        {
+            "name": "Thumbnail designing",
+            "level": "Master",
+            "keywords": ["Adobe Photoshop"]
+        }
+    ],
+    "languages": [
+        
+        {
+            "language": "English",
+            "fluency": "Fluent speaker"
+        }
+    ]
+}
