@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkyusuf_portfolio=self.webpackChunkyusuf_portfolio||[]).push([[787],{787:function(u,e,n){n.r(e),n.d(e,{Resume:function(){return s}});n(791);var r=n(184),s=function(){return(0,r.jsx)("div",{children:"Resume..."})}}}]);
+//# sourceMappingURL=787.40e7b9a2.chunk.js.map
